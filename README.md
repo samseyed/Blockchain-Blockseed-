@@ -40,4 +40,4 @@ git push origin feature-name
 License:
 This project is licensed under the MIT License.
 ---
-You can paste this into your README and edit the placeholders ([e.g., ...]) with your actual project details. Let me know if you want more customization!
+
